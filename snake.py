@@ -3,7 +3,7 @@ import time
 import random
 
 delay = 0.3
-#set up screen object 
+#set up screen object ok
 wn=turtle.Screen()
 wn.title('Snake-game by GHITA')
 wn.setup(width=600 , height=300)
